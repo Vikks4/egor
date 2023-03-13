@@ -1,0 +1,21 @@
+#first{
+display: flex;
+align-items: wrap;
+ align-items: wrap;
+}
+p{
+    font-size: x-large
+}
+#a{background-color: rgb(96, 96, 230);
+width: 300px;
+font-size:xx-large
+}
+#b{background-color: rgb(120, 221, 224);
+    width: 300px;
+font-size:xx-large
+}
+#c{background-color: rgb(236, 231, 160);width: 300px;
+    font-size:xx-large}
+#d{background-color: rgb(148, 247, 123);width: 300px;
+    font-size:xx-large
+}
