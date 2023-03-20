@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+img{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(240, 255, 255, 0.619);
+}
+.zagolovok {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+   .centered {
+    position: absolute;
+color: aliceblue;
+font-size:100px;
+background-color: rgba(240, 248, 255, 0.4);
+  }
+  p{width: 500px;
+height: 500px;
+font-size: xx-large;
+color: aliceblue;}
+#text1{
+    background-color: rgba(157, 75, 234, 0.423);
+    width: 500px;
+    height: 450px;
+}
+#line{
+    background-color: rgb(128, 234, 53);
+    width: 10px;
+    height: 450px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#all{
+    display: flex;
+    align-items: wrap;
+margin: 10px;
+}
+#commands{
+    color: aliceblue;
+    width: 400px;
+    height: 450px;
+}
+
